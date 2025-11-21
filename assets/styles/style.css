@@ -15,7 +15,7 @@ body{
   overflow: hidden;
   border-radius: 7px;
   width: 100%;
-  max-width: 280px;
+  max-width: 300px;
   align-items: center;
   flex-direction: column;
   background-color: hsl(0, 0%, 12%);
